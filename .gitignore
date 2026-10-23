@@ -1,0 +1,42 @@
+
+# Python environment
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# VS Code and system files
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.log
+.ipynb_checkpoints/
+
+# Local secrets
+.env
+.env.*
+!.env.example
+
+# Model checkpoints (if generated)
+*.pth
+*.pt
+*.h5
+*.keras
+# Handover archive
+HAR_CNN_HANDOVER.zip
+
+# Backup dataset
+backup_dataset/
+# Intermediate datasets
+dataset_candidates/
+dataset_raw/
+dataset/
+
+# Handover and backup
+HAR_CNN_HANDOVER.zip
+backup_dataset/
+# Previous handover and backup copies
+HAR_CNN_EXTRA_SCRIPTS_BACKUP/
+HAR_CNN_HANDOVER/

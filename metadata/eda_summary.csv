@@ -1,0 +1,12 @@
+Metric,Value
+Total Images,450.0
+Number of Classes,3.0
+Training Images,360.0
+Validation Images,45.0
+Testing Images,45.0
+Mean Image Width,514.08
+Mean Image Height,489.54
+Mean Aspect Ratio,1.1204
+Landscape Images,245.0
+Portrait Images,184.0
+Near-square Images,21.0
